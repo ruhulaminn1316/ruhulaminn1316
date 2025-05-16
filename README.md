@@ -1,45 +1,47 @@
-<h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
-<h3 align="center">A passionate Web Developer and CSE Student from Bangladesh</h3>
+### Hi there 👋, I’m Ruhul Amin 
+#### A Web Developer | CSE Undergraduate | Tech Enthusiast
+![A Web Developer | CSE Undergraduate | Tech Enthusiast](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*iShoDLPESO89pYd0mMoNSA.png)
 
-- 🌱 I’m currently learning **Django, Java, and Cybersecurity**
+🎓 I’m Ruhul Amin, a passionate Web Developer and CSE undergraduate (5th semester) at Green University of Bangladesh.
 
-- 🛠️ I’m currently working on: **Meal Management System, Group Chat App, and To-Do App**
+💻 I specialize in full-stack development using Django, HTML, Tailwind CSS, and JavaScript. I enjoy building dynamic, responsive, and user-friendly web applications.
 
-- 📚 My certifications include:
-  - Git & GitHub (Udemy)
-  - VSCode Productivity (Udemy)
-  - Graphic Design, WordPress Basics (GP Academy)
+🌱 I’m currently learning Cybersecurity, real-time features with Django Channels, and building interactive UIs with Tailwind CSS.
 
-- 💬 Ask me about **Web Development, Python, Java, and GitHub**
+🚀 I'm working on a Django-based Meal Management Dashboard that includes authentication, admin control, user profiles, real-time data display, and visual leaderboard.
 
-- ⚡ Fun fact: I love contributing to **social work** and helping others!
+🤝 I love collaborating on open-source projects and solving real-world problems with code.
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+📫 Reach me at: ruhulaminn1316@gmail.com
+🔗 Connect: 01737145602 (whatsapp)
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin-dev&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin-dev&theme=radical" width="48%"/>
-</p>
+⚡ Fun fact: I’m equally passionate about volunteering and community work as I am about coding!
 
----
+Skills:  💻 Languages & Programming : Python  JavaScript  Java  🌐 Web Development : HTML5  CSS3  Tailwind CSS  Django  🧰 Tools & Platforms : VS Code  Git  GitHub  Ubuntu  🖌️ Design & Office : Adobe Photoshop  Adobe Illustrator  Microsoft Office (Word, Excel, PowerPoint)
 
-### 📫 How to reach me:
-- 📧 Email: ruhulamin.cse.gub@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ruhulamin-dev](https://linkedin.com/in/ruhulamin-dev)
+- 🔭 I’m currently working on A Django-based Meal Management System with real-time features and a responsive UI. 
+- 🌱 I’m currently learning Cybersecurity, WebSockets, and advanced Django features. 
+- 👯 I’m looking to collaborate on Full-stack Django projects, open-source web applications, or UI/UX-focused frontend builds. 
+- 🤔 I’m looking for help with Implementing real-time notifications using Django Channels and optimizing web app performance. 
+- 💬 Ask me about Web development, Django, Tailwind CSS, Git, and anything about CSE. 
+- 📫 How to reach me: ruhulaminn1316@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I enjoy learning new tech while volunteering for social causes and exploring creative design ideas! 
 
----
 
-> *“Keep coding, keep learning, and keep contributing!”*
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ruhulaminn1316)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruhulaminn1316/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ruhulaminn1316)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ruhulaminn1316/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ruhulaminn1316)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@RUHUL_AMIN)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ruhulaminn1316)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminn1316)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulaminn1316&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ruhulaminn1316/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/ruhulaminn1316)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ruhulaminn1316)  
+
