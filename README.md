@@ -1,9 +1,5 @@
 <!-- README.md -->
 
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
@@ -11,7 +7,7 @@
   👋 Hello, I'm <span style="color:#10B981; font-weight:bold;">Ruhul Amin</span>
 </h1>
 <p align="center" style="font-size: 18px;">
-  | 💻 Web Developer &nbsp;|&nbsp; 🎓 CSE Undergraduate &nbsp;|&nbsp; 💡 Tech Enthusiast &nbsp;|&nbsp; 📚 Lifelong Learner |
+  <strong>| 💻 Web Developer &nbsp;|&nbsp; 🎓 CSE Undergraduate &nbsp;|&nbsp; 💡 Tech Enthusiast &nbsp;|&nbsp; 📚 Lifelong Learner |</strong>
 </p>
 
 
