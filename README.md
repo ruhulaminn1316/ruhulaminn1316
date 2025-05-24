@@ -1,55 +1,38 @@
-<a title="Visit Ruhul's Portfolio" href="https://ruhul-amin-portfolio.pages.dev">
-   <img width="100%" src="./img/Github-Portfolio-Cover.png">
-</a>
+<h1 align="center">Hi 👋, I'm RUHUL AMIN</h1>
+<h3 align="center">||Web Developer🎓 CSE Undergraduate|| Tech Enthusiast ||</h3>
 
-<div align="right">
-    <p>
-        <a title="Portfolio" target="_blank" href="https://ruhul-amin-portfolio.pages.dev"><b>⭐ Portfolio</b></a> |
-        <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/ruhulamin-dev"><b>💼 Linkedin</b></a> |
-        <a title="Resume" target="_blank" href="https://ruhul-amin-portfolio.pages.dev/assets/docs/ruhul-cv.pdf"><b>📜 Resume</b></a> 
-    </p>
-</div>
-
-I am Ruhul Amin, currently pursuing my Bachelor’s degree in **Computer Science and Engineering** (5th Semester) at Green University of Bangladesh.
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,js,python,django,tailwind,java,c,cpp,figma,ps,ai,git,github" />
-	</a>
+<a href="https://codepen.io/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://dev.to/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://twitter.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://kaggle.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://fb.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://instagram.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://dribbble.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://www.behance.net/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://hashnode.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://medium.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@ruhul_amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ruhul_amin" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ruhulaminn1316" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="https://discord.gg/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
+<a href="/ruhulaminn1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ruhulaminn1316" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-	<a href="https://wakatime.com/@ruhulamin">
-		<img 
-			height="150px" 
-			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=ruhulamin&layout=compact&langs_count=8&theme=nord"
-         alt="Ruhul WakaTime Stats" />
-	</a>
-	<a href="https://leetcode.com/ruhulamin-dev">
-		<img 
-		height="150px" 
-		src="https://leetcard.jacoblin.cool/ruhulamin-dev?theme=nord&font=PT%20Sans"
-		alt="Ruhul LeetCode Stats" />
-	</a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 🚀 Technical Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulaminn1316&show_icons=true&locale=en&layout=compact" alt="ruhulaminn1316" /></p>
 
-<ul>
-	<li>Web Development: HTML, CSS, JavaScript, Tailwind CSS, Python, Django</li>
-    <li>UI/UX Design: Figma, Adobe Photoshop, Adobe Illustrator</li>
-    <li>Version Control: Git, GitHub</li>
-    <li>Programming: Java, C, C++, Python</li>
-    <li>Others: Office 365, LATEX</li>
-</ul>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhulaminn1316&show_icons=true&locale=en" alt="ruhulaminn1316" /></p>
 
-<div align="center">
-	<a 
-		title="Total time coded since Jan 11, 2025"
-		href="https://wakatime.com/@ruhulamin" 
-		target="_blank">
-		<img 
-			src="https://wakatime.com/badge/user/ruhulamin.svg?style=for-the-badge" 
-			alt="Total time coded since Jan 11, 2025" />
-	</a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminn1316&" alt="ruhulaminn1316" /></p>
