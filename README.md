@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm RUHUL AMIN</h1>
+<!-- README.md -->
+
+## 🧑‍💻 RUHUL AMIN
+
 <h3 align="center">|| Web Developer || 🎓 CSE Undergraduate || Tech Enthusiast ||</h3>
 
 ---
@@ -18,6 +21,16 @@
   <a href="https://codeforces.com/profile/ruhulaminn1316" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ruhulaminn1316" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://discord.gg/4jsABU62" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🎓 Education:
+
+<p align="center">
+  <strong>Bachelor of Science in Computer Science and Engineering</strong><br>
+  <em>Green University of Bangladesh, Dhaka</em><br>
+  <em>Semester: 5th | Duration: 4 Years | Expected Graduation: 2026</em>
 </p>
 
 ---
@@ -51,6 +64,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
@@ -65,6 +79,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminn1316" alt="GitHub Streak" />
 </p>
 
+---
+
+### ⌚ WakaTime Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ruhulaminn1316&layout=compact&langs_count=8" alt="WakaTime Stats" />
+</p>
+
+---
+
+### 🏅 LeetCode Stats:
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ruhulaminn1316?ext=heatmap" alt="LeetCode Profile" />
 </p>
