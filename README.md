@@ -1,7 +1,19 @@
 <!-- README.md -->
 
-<h1 align="center">👋 Hi there, I'm Ruhul Amin</h1>
-<h3 align="center">A passionate CSE student, full-stack web developer, and lifelong learner 🚀</h3>
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+<h1 align="center">
+  👋 Hello, I'm <span style="color:#10B981; font-weight:bold;">Ruhul Amin</span>
+</h1>
+<p align="center" style="font-size: 18px;">
+  | 💻 Web Developer &nbsp;|&nbsp; 🎓 CSE Undergraduate &nbsp;|&nbsp; 💡 Tech Enthusiast &nbsp;|&nbsp; 📚 Lifelong Learner |
+</p>
+
 
 ---
 
@@ -9,10 +21,10 @@
 
 🎓 I'm currently studying **Computer Science and Engineering (CSE)** at **Green University of Bangladesh**, 7th Semester.  
 💡 I love exploring new technologies, especially web development and AI-powered systems.  
-🌱 Currently learning **Django**, **Java**, and **Cybersecurity**.  
-🛠️ Building real-world projects like **Meal Management System** using Django + WebSockets.  
+📚 Currently learning Django and exploring various backend technologies.  
+🚀 I enjoy building real-world projects like Management Systems using Django and other backend technologies.  
 🤝 Actively involved in social volunteering and educational organizations.  
-🎯 My Goal: To become a top-tier full-stack developer and contribute to open-source.
+🎯 My Goal: To become a skilled Full-Stack Developer and actively contribute to open-source.
 
 ---
 
@@ -83,18 +95,29 @@
 ## 📊 GitHub & Coding Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminn1316&theme=default" alt="GitHub Streak" />
-  
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminn1316&layout=compact&theme=default" width="100%"/>
-  
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulaminn1316&show_icons=true&locale=en" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ruhulaminn1316&layout=compact&langs_count=8" height="200" alt="WakaTime Stats"/>
-  <img src="https://leetcard.jacoblin.cool/ruhulaminn1316?ext=heatmap" height="100%" width="100%" alt="LeetCode Stats"/>
-</p>
 
-  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminn1316&theme=default" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminn1316&layout=compact&theme=default" width="400"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ruhulaminn1316&show_icons=true&locale=en" width="400" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ruhulaminn1316&layout=compact&langs_count=8" width="500" alt="WakaTime Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://leetcard.jacoblin.cool/ruhulaminn1316?ext=heatmap" width="500" alt="LeetCode Stats"/>
+      </td>
+    </tr>
+  </table>
+
 </div>
-
-
