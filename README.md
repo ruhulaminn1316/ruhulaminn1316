@@ -65,15 +65,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminn1316" alt="GitHub Streak" />
 </p>
 
----
-
-### ⌚ WakaTime Stats:
-
-> ✅ Make sure:
-> - Your WakaTime profile is set to **Public**
-> - You are correctly tracking your coding activity
-> - Replace `ruhulaminn1316` below with your actual WakaTime username (if different)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ruhulaminn1316&layout=compact&langs_count=8" alt="WakaTime Stats" />
 </p>
