@@ -1,48 +1,55 @@
-# Hi there 👋, I’m Ruhul Amin 
-#### A Web Developer | CSE Undergraduate | Tech Enthusiast
-![A Web Developer | CSE Undergraduate | Tech Enthusiast](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*iShoDLPESO89pYd0mMoNSA.png)
+<a title="Visit Ruhul's Portfolio" href="https://ruhul-amin-portfolio.pages.dev">
+   <img width="100%" src="./img/Github-Portfolio-Cover.png">
+</a>
 
-🎓 I’m Ruhul Amin, a passionate Web Developer and CSE undergraduate (5th semester) at Green University of Bangladesh.
+<div align="right">
+    <p>
+        <a title="Portfolio" target="_blank" href="https://ruhul-amin-portfolio.pages.dev"><b>⭐ Portfolio</b></a> |
+        <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/ruhulamin-dev"><b>💼 Linkedin</b></a> |
+        <a title="Resume" target="_blank" href="https://ruhul-amin-portfolio.pages.dev/assets/docs/ruhul-cv.pdf"><b>📜 Resume</b></a> 
+    </p>
+</div>
 
-💻 I specialize in full-stack development using Django, HTML, Tailwind CSS, and JavaScript. I enjoy building dynamic, responsive, and user-friendly web applications.
+I am Ruhul Amin, currently pursuing my Bachelor’s degree in **Computer Science and Engineering** (5th Semester) at Green University of Bangladesh.
 
-🌱 I’m currently learning Cybersecurity, real-time features with Django Channels, and building interactive UIs with Tailwind CSS.
+<p align="left">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=html,css,js,python,django,tailwind,java,c,cpp,figma,ps,ai,git,github" />
+	</a>
+</p>
 
-🚀 I'm working on a Django-based Meal Management Dashboard that includes authentication, admin control, user profiles, real-time data display, and visual leaderboard.
+<p align="left">
+	<a href="https://wakatime.com/@ruhulamin">
+		<img 
+			height="150px" 
+			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=ruhulamin&layout=compact&langs_count=8&theme=nord"
+         alt="Ruhul WakaTime Stats" />
+	</a>
+	<a href="https://leetcode.com/ruhulamin-dev">
+		<img 
+		height="150px" 
+		src="https://leetcard.jacoblin.cool/ruhulamin-dev?theme=nord&font=PT%20Sans"
+		alt="Ruhul LeetCode Stats" />
+	</a>
+</p>
 
-🤝 I love collaborating on open-source projects and solving real-world problems with code.
+### 🚀 Technical Skills
 
-📫 Reach me at: ruhulaminn1316@gmail.com
-🔗 Connect: 01737145602 (whatsapp)
+<ul>
+	<li>Web Development: HTML, CSS, JavaScript, Tailwind CSS, Python, Django</li>
+    <li>UI/UX Design: Figma, Adobe Photoshop, Adobe Illustrator</li>
+    <li>Version Control: Git, GitHub</li>
+    <li>Programming: Java, C, C++, Python</li>
+    <li>Others: Office 365, LATEX</li>
+</ul>
 
-⚡ Fun fact: I’m equally passionate about volunteering and community work as I am about coding!
-
-Skills:  💻 Languages & Programming : Python  JavaScript  Java  🌐 Web Development : HTML5  CSS3  Tailwind CSS  Django  🧰 Tools & Platforms : VS Code  Git  GitHub  Ubuntu  🖌️ Design & Office : Adobe Photoshop  Adobe Illustrator  Microsoft Office (Word, Excel, PowerPoint)
-
-- 🔭 I’m currently working on A Django-based Meal Management System with real-time features and a responsive UI. 
-- 🌱 I’m currently learning Cybersecurity, WebSockets, and advanced Django features. 
-- 👯 I’m looking to collaborate on Full-stack Django projects, open-source web applications, or UI/UX-focused frontend builds. 
-- 🤔 I’m looking for help with Implementing real-time notifications using Django Channels and optimizing web app performance. 
-- 💬 Ask me about Web development, Django, Tailwind CSS, Git, and anything about CSE. 
-- 📫 How to reach me: ruhulaminn1316@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I enjoy learning new tech while volunteering for social causes and exploring creative design ideas! 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ruhulaminn1316)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruhulaminn1316/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ruhulaminn1316)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ruhulaminn1316/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ruhulaminn1316)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@RUHUL_AMIN)  
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-src="https://wakatime.com/share/@ruhulaminn1316/5897e55f-7e79-463e-a709-a5db1bddc57d.svg">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminn1316)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulaminn1316&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ruhulaminn1316/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/ruhulaminn1316)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ruhulaminn1316)  
-
+<div align="center">
+	<a 
+		title="Total time coded since Jan 11, 2025"
+		href="https://wakatime.com/@ruhulamin" 
+		target="_blank">
+		<img 
+			src="https://wakatime.com/badge/user/ruhulamin.svg?style=for-the-badge" 
+			alt="Total time coded since Jan 11, 2025" />
+	</a>
+</div>
