@@ -7,7 +7,7 @@
 
 ## 🧑‍💼 About Me
 
-🎓 I'm currently studying **Computer Science and Engineering (CSE)** at **Green University of Bangladesh**, 5th Semester.  
+🎓 I'm currently studying **Computer Science and Engineering (CSE)** at **Green University of Bangladesh**, 7th Semester.  
 💡 I love exploring new technologies, especially web development and AI-powered systems.  
 🌱 Currently learning **Django**, **Java**, and **Cybersecurity**.  
 🛠️ Building real-world projects like **Meal Management System** using Django + WebSockets.  
@@ -20,7 +20,7 @@
 
 - 🏫 **Green University of Bangladesh**  
 - 🎓 **BSc in Computer Science and Engineering**  
-- 📅 5th Semester | Duration: 4 Years | Expected Graduation: 2026  
+- 📅 7th Semester | Duration: 4 Years | Expected Graduation: 2026  
 
 ---
 
@@ -80,23 +80,21 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub & Coding Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminn1316&theme=default" alt="GitHub Streak"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminn1316&theme=default" alt="GitHub Streak" />
+  
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminn1316&layout=compact&theme=default" width="100%"/>
+  
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhulaminn1316&show_icons=true&locale=en" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ruhulaminn1316&layout=compact&langs_count=8" height="200" alt="WakaTime Stats"/>
+  <img src="https://leetcard.jacoblin.cool/ruhulaminn1316?ext=heatmap" height="100%" width="100%" alt="LeetCode Stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulaminn1316&show_icons=true&theme=default" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminn1316&layout=compact&theme=default" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ruhulaminn1316&theme=default"/>
-</p>
 
----
+  
+</div>
 
-## ⌛ WakaTime Stats
 
-```text
-📅 Last 7 Days
-⌨️ Programming Time Tracked Automatically
