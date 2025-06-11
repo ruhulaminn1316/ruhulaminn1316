@@ -15,7 +15,7 @@
 
 ## 🧑‍💼 About Me
 
-🎓 I'm currently studying **Computer Science and Engineering (CSE)** at **Green University of Bangladesh**, 7th Semester.  
+🎓 I'm currently studying **Computer Science and Engineering (CSE)** at **Green University of Bangladesh**.  
 💡 I love exploring new technologies, especially web development and AI-powered systems.  
 📚 Currently learning Django and exploring various backend technologies.  
 🚀 I enjoy building real-world projects like Management Systems using Django and other backend technologies.  
